@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Ahan Anupam, a sophomore in Electrical Engineering
 
 - 🌱 I’m currently learning ML, DL, and image processing
 - 🤔 I’m looking for help with Dynamic Programming and DSA
