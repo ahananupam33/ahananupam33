@@ -1,8 +1,12 @@
 ### Hi there 👋, I am Ahan Anupam, a sophomore in Electrical Engineering
 
-- 🌱 I’m currently learning ML, DL, and image processing
+- 🌱 I’m currently learning and developing my skills in Machine Learning, Competitive Programming, Image Processing and Deep Learning 
 - 🤔 I’m looking for help with Dynamic Programming and DSA
+- 👯 I’m open to collaborating on open source stuff involving Machine Learning and Image Processing
 - 📫 How to reach me: ahananupam@gmail.com
+
+[![Ahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahananupam33)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ahananupam33/ahananupam33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
