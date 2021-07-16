@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ML, DL, and image processing
+- 🤔 I’m looking for help with Dynamic Programming and DSA
+- 📫 How to reach me: ahananupam@gmail.com
+
 <!--
 **ahananupam33/ahananupam33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
