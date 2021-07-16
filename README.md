@@ -5,8 +5,8 @@
 - 👯 I’m open to collaborating on open source stuff involving Machine Learning and Image Processing
 - 📫 How to reach me: ahananupam@gmail.com
 
-[![Ahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahananupam33&count_private=true&show_icons=true&theme=tokyonight)
- ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ahananupam33&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahananupam33&count_private=true&show_icons=true)
+ ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ahananupam33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
