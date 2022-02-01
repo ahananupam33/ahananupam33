@@ -1,14 +1,17 @@
-### Hi there 👋, I am Ahan Anupam, a sophomore in Electrical Engineering
+### Hi there 👋, I am Ahan Anupam, a pre final year student of Electrical Engineering
 
-- 🌱 I’m currently learning and developing my skills in Machine Learning, Competitive Programming, Image Processing and Deep Learning 
-- 🤔 I’m looking for help with Dynamic Programming and DSA
-- 👯 I’m open to collaborating on open source stuff involving Machine Learning and Image Processing
+- 🌱 I’m currently learning and developing my skills in Machine Learning,and Competitive Programming and am also interested in embedded systems.
+- 🤔 I’m looking for help with Dynamic Programming.
+- 👯 I’m open to collaborating on open source stuff involving Machine Learning, Image Processing and Embedded systems.
 - 📫 How to reach me: ahananupam@gmail.com
 
 
 
 [![Ahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahananupam33&count_private=true&show_icons=true)
  ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ahananupam33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ## Social Handles
+- <a href="https://www.linkedin.com/in/ahan-anupam-ab21411a4/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 
 <!--
