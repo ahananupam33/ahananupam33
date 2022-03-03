@@ -11,8 +11,7 @@
  ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ahananupam33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ## Social Handles
-- <a href="https://www.linkedin.com/in/ahan-anupam-ab21411a4/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
-
+<a href="https://www.linkedin.com/in/ahan-anupam-ab21411a4/" target="_blank"><img src="https://img.shields.io/badge/-ahananupam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahan-anupam-ab21411a4/" alt="LinkedIn"></a>
 
 <!--
 **ahananupam33/ahananupam33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
