@@ -13,6 +13,13 @@
 <a href="https://www.linkedin.com/in/ahan-anupam-ab21411a4/" target="_blank"><img src="https://img.shields.io/badge/-ahananupam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahan-anupam-ab21411a4/" alt="LinkedIn"></a>
 <a href="mailto:ahananupam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ahananupam@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahananupam@gmail.com" alt="Gmail"></a>
 
+## Profile Views
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ahananupam33">
+</a>
+
+
 <!--
 **ahananupam33/ahananupam33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
